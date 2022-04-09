@@ -1,6 +1,14 @@
-{
-  "id": 1,
-  "title": "Vue.js", 
-  "description": "Este es el primer post de developedia", 
-  "date": "09-04-22",
-}
+[
+  {
+    "id": 1,
+    "title": "Vue.js", 
+    "description": "Este es el primer post de developedia", 
+    "date": "09-04-22",
+  },
+  {
+    "id": 2,
+    "title": "Vue.js - parte 2", 
+    "description": "Este es el segundo post de developedia", 
+    "date": "09-04-22",
+  }
+]
