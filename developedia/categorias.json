@@ -1,3 +1,3 @@
 {
-    categorias: ["HTML", "CSS", "3": "Javascript", "4": "Typescript", "5": "Java", "6": "Angular", "7": "ReactJS", "8": "VueJS", "9": "XML", "10": "PHP"]
+    "categorias": ["HTML", "CSS", "Javascript", "Typescript", "Java", "Angular", "ReactJS", "VueJS", "XML", "PHP"]
 }
