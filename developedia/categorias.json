@@ -1,12 +1,12 @@
-[
-    1: "HTML",
-    2: "CSS",
-    3: "Javascript",
-    4: "Typescript",
-    5: "Java",
-    6: "Angular",
-    7: "ReactJS",
-    8: "VueJS",
-    9: "XML",
-    10: "PHP"
-]
+{
+    "1": "HTML",
+    "2": "CSS",
+    "3": "Javascript",
+    "4": "Typescript",
+    "5": "Java",
+    "6": "Angular",
+    "7": "ReactJS",
+    "8": "VueJS",
+    "9": "XML",
+    "10": "PHP"
+}
