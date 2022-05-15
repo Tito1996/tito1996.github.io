@@ -9,6 +9,9 @@
   },
   {
     "id": 2,
-    "parrafos"
+    "parrafos": {
+      "parrafo1": "lore ipsum :)",
+      "parrafo2": "uno corto pa los jajas"
+    }
   }
 ]
