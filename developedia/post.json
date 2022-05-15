@@ -2,7 +2,8 @@
   {
     "id": 1,
     "title": "Hola mundo!", 
-    "description": "Este es el primer post de developedia", 
+    "description": "Este es el primer post de developedia",
+    "parrafos": 1,
     "date": "07-05-22"
   },
   {
