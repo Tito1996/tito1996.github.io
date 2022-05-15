@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "parrafos": {
+      "parrafo1": "Como todo el mundo sabe “Hola mundo!” suele ser el primer programa que crea la mayoría de los que empiezan a aprender sobre un lenguaje de programación. Y por ese motivo el primer post de este Developedia no podía empezar de otra manera.",
+      "parrafo2": "Con esto quiero describir el tipo de blog que quiero crear, se trata de una especie de bloc de notas donde iré apuntando curiosidades y apuntes sobre programación y otros temas relacionados con la informática, y que he pensado que estría bien compartir con otras personas.",
+      "parrafo3": "Dicho esto, nos vemos si las condiciones lo permiten."
+    }
+  },
+  {
+    "id": 2,
+    "parrafos"
+  }
+]
